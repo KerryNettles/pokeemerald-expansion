@@ -4410,6 +4410,26 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_ULTRA_DESERT",
+      "name": "UltraDesert_Layout",
+      "width": 40,
+      "height": 40,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Mauville",
+      "border_filepath": "data/layouts/UltraDesert/border.bin",
+      "blockdata_filepath": "data/layouts/UltraDesert/map.bin"
+    },
+    {
+      "id": "LAYOUT_SPARKLING_OASIS",
+      "name": "SparklingOasis_Layout",
+      "width": 40,
+      "height": 40,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/SparklingOasis/border.bin",
+      "blockdata_filepath": "data/layouts/SparklingOasis/map.bin"
     }
   ]
 }
